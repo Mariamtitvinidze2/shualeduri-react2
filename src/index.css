@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: auto;
+  background: var(--Very-Light-Gray, #F5F6FA);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
